@@ -1,7 +1,7 @@
 # 👋 Welcome to NextGen Solutions
 🚀 Building Future-Ready Digital Solutions
 
-Hi, I'm Jonathan Rann, the founder of **NextGen Solutions** with **7 years of experience** in full-stack software engineering. I specialize in delivering high-quality, scalable, and innovative software solutions.
+Hi, I'm Jonathan Rann, the founder of **NextGen Solutions**, a **starter business** where I am proudly **self-employed** with **7 years of experience** in full-stack software engineering. I specialize in delivering high-quality, scalable, and innovative software solutions.
 
 ### 🛠️ Tech Stack
 ![Next.js](https://img.shields.io/badge/Next.js-15-black?style=for-the-badge)
